@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://ho-bespoke07.nigeria.firstbank.local/FBNServices/Service.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/Service/wsdl/ho-bespoke07.nigeria.firstbank.local/FBNServices/Service.asmx.wsdl"/>
+    <system systemId="http://ho-bespoke07.nigeria.firstbank.local/FBNServices/Service.asmx" uri="src/conf/xml-resources/web-service-references/Service/wsdl/ho-bespoke07.nigeria.firstbank.local/FBNServices/Service.asmx"/>
+    <system systemId="http://172.16.249.199/FBNServices/Service.asmx" uri="src/conf/xml-resources/web-service-references/Service/wsdl/172.16.249.199/FBNServices/Service.asmx"/>
+    <system systemId="https://172.16.249.199/FBNServices/Service.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/Service/wsdl/172.16.249.199/FBNServices/Service.asmx.wsdl"/>
+    <system systemId="http://172.16.249.199/FBNServices/Service.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/Service/wsdl/172.16.249.199/FBNServices/Service.asmx.wsdl"/>
+</catalog>

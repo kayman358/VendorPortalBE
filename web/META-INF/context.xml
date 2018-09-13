@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/VendorPortalBE">
+    <Resource name="jdbc/SupplierCapture" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="vendorportal" password="@sUperAdm1n"
+               driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+               url="jdbc:sqlserver://172.16.249.199;databaseName=SupplierCapture"/>
+</Context>
+

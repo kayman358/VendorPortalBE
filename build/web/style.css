@@ -1,0 +1,208 @@
+
+@import "//fonts.googleapis.com/css?family=Droid+Serif";  /* This Line is to import Google font style */
+
+
+.content{
+    wisdth:960px;
+    margin:20px auto
+}
+.main{
+
+    wisdth:650px;
+    margin-top:80px
+}
+#checkedstate{
+    display: none;
+}
+#checkedcompany{
+    display: none;
+}
+#tinhide1{
+    display:none;
+}
+#tinhide2{
+    display:none;
+}
+
+#swift{
+    display: none;
+}
+#timeout{
+    display: none;
+}
+#progressbar{
+    margin:0;
+    padding:0;
+    font-size:18px
+}
+#active1{
+    color:red
+}
+#countryy{
+    display:block;
+}
+#visib{
+    display:none;
+}
+#visib2{
+    display:none;
+}
+#visib4{
+    display:none;
+}
+#hide0{
+    display: none;
+}
+#hide{
+    display: none;
+}
+#hide2{
+    display: none;
+}
+#hide3{
+    display: none;
+}
+#contact2{
+    display:none;
+}
+#contact3{
+    display:none;
+}
+#contact4{
+    display:none;
+}
+#rem1{
+    display:none;
+}
+#rem2{
+    display:none;
+}
+#rem3{
+    display:none;
+}
+
+#addbtn{
+    display: block;
+}
+
+fieldset{
+    display:none;
+    width:350px;
+    padding:20px;
+    margin-top:50px;
+    margin-left:85px;
+    border-radius:5px;
+    box-shadow:3px 3px 25px 1px gray
+}
+#zero{
+    display:block;
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+#first{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+#second{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+#third{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+
+#fourth{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+
+#fifth{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+
+#sixth{
+
+    width:1000px;
+    padding:20px;
+    margin-top:50px;
+    border-radius:5px;
+    margin-left:85px;
+    box-shadow:3px 3px 25px 1px gray
+}
+input[type=text],input[type=password],select{
+    width:100%;
+    margin:10px 0;
+    height:40px;
+    padding:5px;
+    border-radius:4px
+}
+textarea{
+    width:100%;
+    margin:10px 0;
+    height:70px;
+    padding:5px;
+    border:3px solid #ecb0dc;
+    border-radius:4px
+}
+input[type=submit],input[type=button]{
+    width:120px;
+    margin:15px 25px;
+    padding:5px;
+    height:40px;
+    background-color:#a0522d;
+    border:none;
+    border-radius:4px;
+    color:#fff;
+    font-family:'Droid Serif',serif
+}
+h2,p{
+    text-align:center;
+    font-family:'Droid Serif',serif
+}
+li{
+    margin-right:52px;
+
+    font-family:'Droid Serif',serif
+}
+
+.row ul li {
+    display: inline;
+}
+
+.row2 ul li a i {
+    display: inline;
+}
+  .required:before { color: #d00;content:" *"; }
+
+
